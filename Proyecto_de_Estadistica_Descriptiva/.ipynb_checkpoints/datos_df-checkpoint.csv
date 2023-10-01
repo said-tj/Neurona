@@ -1,0 +1,7 @@
+clase,frecuencia,frecuencia relativa (0-1),frecuencia relativa (%),probabilidad acumulada,frecuencia acumulda (0-1),frecuencia acumulada (%)
+10,2,0.2,20.0,20.0,0.2,20.0
+11,1,0.1,10.0,30.0,0.3,30.0
+12,4,0.4,40.0,70.0,0.7,70.0
+14,1,0.1,10.0,80.0,0.8,80.0
+17,1,0.1,10.0,90.0,0.9,90.0
+33,1,0.1,10.0,100.0,1.0,100.0
